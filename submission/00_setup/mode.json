@@ -1,0 +1,23 @@
+{
+  "members": [
+    "anh",
+    "chau",
+    "quang"
+  ],
+  "assignments": {
+    "anh": "B2-dense",
+    "chau": "B2-edge",
+    "quang": "B2-mid"
+  },
+  "self": "chau",
+  "slice": "B2-edge",
+  "degrade": [],
+  "current_slice": "B2-edge",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": [
+    "adasind_069450.jpg:1",
+    "adasind_069450.jpg:2",
+    "adasind_069450.jpg:3"
+  ]
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>12</id>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2026-09-29 03:14:05.161066+00:00</created>
+      <updated>2026-09-29 03:27:57.298291+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>12</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>http://localhost:8080/api/jobs/12/dataset/export/api/jobs/12</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>tranchau</username>
+        <email>trancha82@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>parking_line</name>
+          <color>#ffcc00</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>free_space</name>
+          <color>#35c98b</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2026-09-29 03:28:16.730396+00:00</dumped>
+  </meta>
+  <image id="0" name="parking-lot-core.jpg" width="960" height="720">
+    <polyline label="parking_line" source="manual" occluded="0" points="407.85,653.61;530.58,719.58" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="699.73,622.87;960.00,685.10" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="920.90,596.80;960.00,601.89" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="0.00,542.20;960.00,506.02" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="169.31,518.78;248.23,563.83" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="282.45,518.08;421.95,554.19" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="396.77,517.07;579.60,544.90" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="497.64,513.92;716.49,536.61" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="552.59,507.34;834.94,530.24" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="65.60,498.74;61.70,509.84" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="134.58,499.32;148.80,507.51" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="121.52,486.07;129.32,494.26" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="72.62,486.46;73.01,494.45" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="22.54,487.24;15.53,495.82" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="199.46,497.57;233.17,505.56" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="269.41,497.35;310.91,503.59" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="330.98,495.80;387.68,501.64" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="407.40,495.00;459.00,499.70" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="28.20,681.80;23.90,719.49" z_order="0">
+    </polyline>
+    <polyline label="parking_line" source="manual" occluded="0" points="58.33,520.19;48.80,570.90" z_order="0">
+    </polyline>
+    <polygon label="free_space" source="manual" occluded="0" points="0.60,683.00;20.25,681.43;399.77,652.11;697.77,622.45;920.45,597.57;959.83,587.35;959.74,505.66;833.66,531.38;715.03,537.41;578.63,544.95;421.97,554.84;248.13,564.56;47.48,571.51;0.00,577.12;0.00,682.90" z_order="0">
+    </polygon>
+    <polygon label="free_space" source="manual" occluded="0" points="0.00,510.24;61.89,510.03;149.60,507.13;233.81,505.37;311.86,503.87;388.04,502.32;459.50,499.98;536.91,496.02;588.29,496.80;552.81,506.72;497.26,513.23;396.36,516.73;282.10,516.77;169.24,518.00;58.59,520.15;0.00,520.15" z_order="0">
+    </polygon>
+  </image>
+</annotations>

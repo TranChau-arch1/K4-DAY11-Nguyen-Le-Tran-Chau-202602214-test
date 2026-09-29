@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,40,Medium,Góc nhìn chính quan trọng nhất cần kiểm soát để đánh giá ổn định tổng thể
+front,hard,50,High,Mật độ giao thông cao; điểm giao cắt và xe tạt đầu dễ gây tai nạn nhất nên cần soi kỹ
+rear,normal,20,Low,Góc phía sau nhìn chung ít biến động đột ngột hơn so với phía trước
+rear,hard,30,High,Rủi ro lóa sáng do đèn pha xe sau hoặc xe theo đuôi quá sát trong điều kiện khó
+left,normal,10,Low,Góc sườn xe cơ bản ít có phương tiện thay đổi làn liên tục
+left,hard,20,Medium,Điểm mù sườn xe khi rẽ hoặc xe máy vượt lên
+right,normal,10,Low,Góc sườn xe cơ bản ít có phương tiện thay đổi làn liên tục
+right,hard,20,Medium,Điểm mù sườn xe khi rẽ hoặc xe máy vượt lên

@@ -1,0 +1,9 @@
+round: calib
+slice: C0
+sha256: 925bba361311a2d6375eb05fac7c2d1d33ea3c0e93ca404e6f02593d4988fa7a
+code: 925B-BA36
+locked_at: 2026-09-29T10:55:22+07:00
+shapes: box=9, polygon=2
+prefill_kept: 0
+prefill_edited: 0
+new: 9
